@@ -1,14 +1,10 @@
-html {
-    -webkit-column-rule-style: dashed;
-    background-color: darkgrey;
-    font-size: medium;
-    font-family: Arial, Helvetica, sans-serif;
-    border-top: 4px;
-    border-bottom: 4px;
-    border-style: solid;
-    border-color: black;
 
-}
+.alert{
+    color:red;
+ }
+
+
+
 h1{
     margin-inline-end: 20px;
     margin-left: 7in;
