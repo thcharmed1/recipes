@@ -2,7 +2,7 @@
     color: red;
     
 }
-.paragraph{
+.paragraph, .second-alert{
     border-top: 2mm;
     border-style:dashed;
     border-width: 2mm;
