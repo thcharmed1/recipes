@@ -1,0 +1,22 @@
+html {
+    -webkit-column-rule-style: dashed;
+    background-color: darkgrey;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top: 4px;
+    border-bottom: 4px;
+    border-style: solid;
+    border-color: black;
+
+}
+h1{
+    margin-inline-end: 20px;
+    margin-left: 7in;
+    margin-block:inherit;
+    font-size: large;
+    font-weight: bold;
+    font-synthesis: style;
+}
+h2{
+    margin-block:inherit ;
+}
