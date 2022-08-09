@@ -1,5 +1,29 @@
+/* Page TWo */
 
+.first{
+    background-color: rgb(192, 100, 100);
+    width: 500px;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+.second{ 
+    background-color: rgb(192, 100, 100);
+    width: 500px;
+    font-size: 35px;
+}
+#first-head{
+color:rgb(0,100,192);
+background-color:rgb(255, 255, 255);
+font-size: large;
+width: 500px;
 
+}
+#second-head{
+    color:rgb(0,0,0);
+    background-color:rgb(0, 204, 85);
+    font-size: 24px;
+    width: 500px;
+    font-weight: bold;
+    }
 
 img{
     height: auto;
@@ -16,4 +40,20 @@ div{
 button{
     background-color: orange;
     font-size: 18px;
+}
+
+/* Page Three */
+.recipe{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', Times, sans-serif;
+    width: 500px;
+}
+#ingredients{
+   background-color: black;
+   color:#FFFF
+
+}
+#steps{
+    background-color: yellow;
+
 }
